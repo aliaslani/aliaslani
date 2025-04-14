@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a tech enthusiast with a passion for building cool thi
 ---
 
 ### 🚀 What I'm Up To:
-- **🔭** Currently working on [Dajgno](#)
+- **🔭** Currently working on [Django](#)
 - **🌱** Learning all about **Machine Learning** and diving into its real-world applications.
 - **👯** Always up for collaborating on **AI** projects! If you're into it, let's chat.
 
