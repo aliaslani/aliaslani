@@ -22,5 +22,3 @@ Welcome to my GitHub! I'm a tech enthusiast with a passion for building cool thi
 If you want to connect, feel free to check out my [GitHub profile](https://github.com/aliaslani/) or drop me an [email](mailto:a.aslani1986@gmail.com). Let’s build something great together!
 
 ---
-
-This version has a friendly tone but still communicates professionalism! Let me know if you'd like to tweak anything further.
