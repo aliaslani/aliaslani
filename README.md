@@ -23,18 +23,16 @@ If you want to connect, feel free to check out my GitHub profile or drop me an e
 
 ---
 
-### 🏅 CTO-Level Verdict
+### 🏅 
 
 > 🔎 **Title-Level Fit:**  
-> You’re performing at a level between a **Senior Django Developer** and **Backend Lead**.
+> I'm performing at a level between a **Senior Django Developer** and **Backend Lead**.
 
-You’ve demonstrated:
+I’ve demonstrated:
 - ✅ Deep technical skill  
 - ✅ Architectural foresight  
 - ✅ Clean, defensive coding  
 - ✅ Ownership of the auth/session domain
-
-> _— as evaluated by a senior AI-powered CTO reviewer on a recent backend architecture project._
 
 ---
 
