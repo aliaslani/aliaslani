@@ -155,5 +155,7 @@ Senior Backend & Machine Learning Engineer with expertise in:
 ## 🤝 Let's Connect
 
 - LinkedIn: https://linkedin.com/in/ali-aslani-48872825b
+- Email: a.aslani1986@gmail.com
+- Tel: +989021365902
 
 > Building scalable software, mentoring developers, and exploring the future of AI-powered systems.
