@@ -103,9 +103,9 @@ Developed Django and Flask applications, designed relational database architectu
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
-![GitHub Stats]([![aliaslani](https://gh-stats.com/api/aliaslani)](https://gh-stats.com)
+(https://gh-stats.com/api/aliaslani)](https://gh-stats.com)
 
 </div>
 
