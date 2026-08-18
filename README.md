@@ -1,139 +1,96 @@
+<div align="center">
+
 # Hi, I'm Ali Aslani 👋
 
-### Senior Python Engineer • Django • AI/ML Engineer
+### Senior Python Engineer · Django Backend · AI/ML Engineer
 
-📍 Isfahan, Iran  
-🔗 LinkedIn: https://linkedin.com/in/ali-aslani-48872825b/
+Building scalable backend systems, architecting AI-powered applications, and mentoring the next generation of developers.
 
----
+📍 Isfahan, Iran &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-aslani-48872825b/) &nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:a.aslani1986@gmail.com)
+
+</div>
+
+<br>
 
 ## 🚀 About Me
 
-Senior Backend & Machine Learning Engineer with expertise in:
+I'm a Senior Backend & Machine Learning Engineer with a passion for building robust systems and sharing what I learn along the way.
 
-- Building scalable backend systems using Python and Django
-- Designing high-performance RESTful APIs
-- Developing AI-powered applications using LLMs and RAG
-- Creating distributed systems with Celery, Redis, and RabbitMQ
-- Teaching Python, Django, Linux, and Machine Learning
+- 🏗️ **5+ years** building scalable backend systems with Python and Django
+- 🎓 **7+ years** teaching and mentoring — **1,000+ students** trained
+- 🤖 Deep into **LLMs, RAG pipelines, and AI engineering** (Ollama, ChromaDB, local models)
+- ⚡ Designing high-performance RESTful APIs and distributed systems with Celery, Redis, and RabbitMQ
+- 🐧 Linux advocate, Vim user, and lifelong learner
 
-### Highlights
-
-- 🏗 5+ years of backend development
-- 🎓 7+ years of teaching & mentoring
-- 👨‍🏫 1,000+ students trained
-- 🤖 LLM, RAG, Ollama & AI Engineering enthusiast
-- 🐧 Linux advocate
-
----
+<br>
 
 ## ⚙️ Tech Stack
 
-### Backend
+**Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### AI / Machine Learning
+**AI / Machine Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-blue?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1E90FF?style=for-the-badge)
 
-### Databases
+**Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### DevOps
+**DevOps & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
----
-[![aliaslani](https://gh-stats.com/api/aliaslani)](https://gh-stats.com)
+<br>
+
 ## 💼 Professional Experience
 
-### Senior Backend Engineer (Django)
-**Elegant Hoopoe** • UAE (Remote)  
+**Senior Backend Engineer (Django)** — Elegant Hoopoe, UAE (Remote)
 *Oct 2025 – Mar 2026*
+Architected scalable backend services with Django and PostgreSQL, designed secure high-performance REST APIs, optimized database queries and caching layers, and led CI/CD and deployment automation improvements.
 
-- Architected scalable backend services using Django and PostgreSQL
-- Designed secure, high-performance REST APIs
-- Optimized database queries and caching layers
-- Led CI/CD improvements and deployment automation
-
-### Django Developer
-**Fardaad** • Isfahan, Iran  
+**Django Developer** — Fardaad, Isfahan, Iran
 *Sep 2023 – Oct 2025*
+Built enterprise-grade RESTful APIs, developed Celery/RabbitMQ/Redis pipelines, implemented malware scanning workflows, and containerized applications with Docker.
 
-- Built enterprise-grade RESTful APIs
-- Developed Celery, RabbitMQ, and Redis pipelines
-- Implemented malware scanning workflows
-- Containerized applications using Docker
-
-### Python Developer
-**Supect**  
+**Python Developer** — Supect
 *Sep 2020 – Dec 2022*
+Developed Django and Flask applications, designed relational database architectures, and performed code reviews and testing.
 
-- Developed Django and Flask applications
-- Designed relational database architectures
-- Performed code reviews and testing
-
----
+<br>
 
 ## 🎓 Teaching & Mentorship
 
-### Technical Instructor & Bootcamp Mentor
-**Karocamp** *(2025 – Present)*
+| Role | Institution | Period | Focus |
+|---|---|---|---|
+| Technical Instructor & Bootcamp Mentor | Karocamp | 2025 – Present | Python, Django, Databases, ML |
+| Teacher | Mehregan Institute | 2023 – Present | Python, Django, Linux, JavaScript |
+| Instructor | Daneshpajoohan Pishro Higher Education Institute | 2021 – 2024 | Python, Flask, Django |
+| Mentor | Madrasaneh & Iran Technical & Vocational Training | — | Python, Django, Flask, MySQL |
 
-- Python
-- Django
-- Databases
-- Machine Learning
-
-### Teacher
-**Mehregan Institute** *(2023 – Present)*
-
-- Python
-- Django
-- Linux
-- JavaScript
-
-### Instructor
-**Daneshpajoohan Pishro Higher Education Institute** *(2021 – 2024)*
-
-- Python
-- Flask
-- Django
-
-### Mentor
-**Madrasaneh & Iran Technical & Vocational Training**
-
-- Python
-- Django
-- Flask
-- MySQL
-
----
+<br>
 
 ## 🎓 Education
 
-### M.Eng. Computer Engineering
-**University of Isfahan**  
-2019 – 2022
+**M.Eng. Computer Engineering** — University of Isfahan (2019 – 2022)
 
----
+<br>
 
 ## 🏆 Certifications
 
@@ -142,20 +99,26 @@ Senior Backend & Machine Learning Engineer with expertise in:
 - Advanced Python Programming — Maktabkhooneh
 - Python Programming Fundamentals — Maktabkhooneh
 
----
+<br>
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliaslani&show_icons=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaslani&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliaslani&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaslani&layout=compact&hide_border=true)
 
----
+</div>
+
+<br>
 
 ## 🤝 Let's Connect
 
-- LinkedIn: https://linkedin.com/in/ali-aslani-48872825b
-- Email: a.aslani1986@gmail.com
-- Tel: +989021365902
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-aslani-48872825b)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.aslani1986@gmail.com)
 
 > Building scalable software, mentoring developers, and exploring the future of AI-powered systems.
+
+</div>
