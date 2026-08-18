@@ -103,11 +103,11 @@ Developed Django and Flask applications, designed relational database architectu
 
 ## 📊 GitHub Stats
 
-<div align="left">
+<!-- <div align="left">
 
 [![aliaslani](https://gh-stats.com/api/aliaslani)](https://gh-stats.com)
 
-</div>
+</div> -->
 <p align="center">
   <a href="https://github.com/aliaslani">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aliaslani&&theme=radical&show_icons=true&count_private=true&include_all_commits=true"/>
