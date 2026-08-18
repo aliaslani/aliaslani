@@ -61,7 +61,7 @@ Senior Backend & Machine Learning Engineer with expertise in:
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
 
 ---
-
+[![aliaslani](https://gh-stats.com/api/aliaslani)](https://gh-stats.com)
 ## 💼 Professional Experience
 
 ### Senior Backend Engineer (Django)
