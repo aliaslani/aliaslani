@@ -105,7 +105,7 @@ Developed Django and Flask applications, designed relational database architectu
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliaslani&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats]([![aliaslani](https://gh-stats.com/api/aliaslani)](https://gh-stats.com)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliaslani&layout=compact&hide_border=true)
 
 </div>
