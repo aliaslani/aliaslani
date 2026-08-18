@@ -105,7 +105,7 @@ Developed Django and Flask applications, designed relational database architectu
 
 <div align="left">
 
-(https://gh-stats.com/api/aliaslani)](https://gh-stats.com)
+[![aliaslani](https://gh-stats.com/api/aliaslani)](https://gh-stats.com)
 
 </div>
 
