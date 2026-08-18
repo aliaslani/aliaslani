@@ -108,7 +108,12 @@ Developed Django and Flask applications, designed relational database architectu
 [![aliaslani](https://gh-stats.com/api/aliaslani)](https://gh-stats.com)
 
 </div>
-
+<p align="center">
+  <a href="https://github.com/behshadrhp">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=behshadrhp&&theme=radical&show_icons=true&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=behshadrhp&theme=radical&layout=compact"/>
+  </a>
+</p>
 <br>
 
 ## 🤝 Let's Connect
